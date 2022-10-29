@@ -1,0 +1,6 @@
+SELECT TOP (1000) [id]
+	   ,[name]
+       ,[phone]
+       ,[email]
+       ,[city]
+  FROM [praju]
