@@ -1,0 +1,7 @@
+2. Create an API for Purchase Order. The details to be included are:
+● Product Name
+● Quantity
+● Pricing
+● MRP
+● Purchase order ID- Auto Generated (Unique ID)
+● Customer ID - From Customer table above
